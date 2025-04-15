@@ -1,0 +1,5 @@
+[submodule "testdata/lib/openzeppelin-contracts"]
+	path = testdata/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "lib/openzeppelin-contracts"]
+	branch = v4.8.3
