@@ -2,7 +2,7 @@
 
 ## Notice
 
-This repository contains the code and dataset used in the paper Automated Attack Synthesis for Constant Product Market Makers (accepted at ISSTA 2025).
+This repository contains the code and dataset used in the paper [Automated Attack Synthesis for Constant Product Market Makers (accepted at ISSTA 2025)](https://arxiv.org/abs/2404.05297).
 
 Our tool, CPMMX, is built on top of [Foundry](https://github.com/foundry-rs/foundry).
 
