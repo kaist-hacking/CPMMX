@@ -10,8 +10,9 @@ The dataset `./testdata/defihacklabs_exploits.csv` is a subset of exploits in th
 
 The dataset `./testdata/blocksec_exploits.csv` is a modified version of [exploits reported by BlockSec](https://x.com/BlockSecTeam/status/1624077078852210691).
 
-
 Please refer to our [paper](https://arxiv.org/abs/2404.05297) for more details.
+
+[![DOI](https://zenodo.org/badge/966579709.svg)](https://doi.org/10.5281/zenodo.15223115)
 
 ## Environment Setup
 
