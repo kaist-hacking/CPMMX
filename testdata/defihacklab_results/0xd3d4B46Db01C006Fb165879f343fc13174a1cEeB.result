@@ -1,0 +1,10 @@
+target_token: 0xd3d4b46db01c006fb165879f343fc13174a1ceeb
+base_token: 0x55d398326f99059ff775485246999027b3197955
+pair: 0xa269556edc45581f355742e46d2d722c5f3f551a
+{"bridge": 0x39ab15b029de936e09beda89999db85e2c30ce4d, "init": 0x00a329c0648769a73afac7f9381e08fb43dbea72, "main_pier": 0xc25e8f5fd143c96d63b52e156003739a34b17fb5, "oracle": 0x502be16aa82bad01fdc3feb3c5f8c431f8eeb8ae}
+Block number: 26685503
+Found 115 templates breaking invariant!
+Exploit found early!
+profit: 50927799458433041873565
+
+time elapsed: Duration { secs: 14, nanos: 698677511 }

@@ -1,0 +1,17 @@
+target_token: 0x46ba8a59f4863bd20a066fd985b163235425b5f9
+base_token: 0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+pair: 0xb3e708a6d1221ed7c58b88622fdbee2c03e4db4d
+{"bridge": 0x176615385765cd52c5081bbf8370c635f52e539c, "init": 0x00a329c0648769a73afac7f9381e08fb43dbea72, "main_pier": 0x8fa9fb2f76741b596c6189501b49fe1c5950abe0, "oracle": 0x502be16aa82bad01fdc3feb3c5f8c431f8eeb8ae}
+Block number: 17248705
+Err in update_oracle
+Oracle debug: precision: 100
+Oracle debug: reach 1
+Oracle debug: reach 2
+Oracle debug: reach 3
+Oracle debug: in calculateFeesorBonuses
+Oracle debug: sender fee: 399
+Found 95 templates breaking invariant!
+Exploit found early!
+profit: 21635075938979051740
+
+time elapsed: Duration { secs: 60, nanos: 705411962 }

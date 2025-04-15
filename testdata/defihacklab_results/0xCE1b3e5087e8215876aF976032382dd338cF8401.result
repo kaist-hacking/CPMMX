@@ -1,0 +1,11 @@
+Is proxy contract
+target_token: 0xce1b3e5087e8215876af976032382dd338cf8401
+base_token: 0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+pair: 0xd822e1737b1180f72368b2a9eb2de22805b67e34
+{"bridge": 0x96915333e1aaa42dde389fd7a930b7700235da82, "init": 0x00a329c0648769a73afac7f9381e08fb43dbea72, "main_pier": 0xf13d706f4730e9473ac741a5faded990f87da743, "oracle": 0x502be16aa82bad01fdc3feb3c5f8c431f8eeb8ae}
+Block number: 24913171
+Found 1 templates breaking invariant!
+Exploit found early!
+profit: 20317605965919
+
+time elapsed: Duration { secs: 25, nanos: 64566976 }

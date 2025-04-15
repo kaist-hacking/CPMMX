@@ -1,0 +1,5229 @@
+target_token: 0xc86875d594f2cdf3ad15cac093a005981624c65e
+base_token: 0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+pair: 0x3d51b4bcadad9485724e6e188638b50b52708d60
+{"bridge": 0x96915333e1aaa42dde389fd7a930b7700235da82, "init": 0x00a329c0648769a73afac7f9381e08fb43dbea72, "main_pier": 0xf13d706f4730e9473ac741a5faded990f87da743, "oracle": 0x502be16aa82bad01fdc3feb3c5f8c431f8eeb8ae}
+Block number: 25548273
+Found 90 templates breaking invariant!
+After introducing state-changing calls, found 276 templates breaking invariant!
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 29682802759108447842, previous_final_balance: 29682802759108447842
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 29682802759108447842, previous_final_balance: 29682802759108447842
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 29682802759108447842, previous_final_balance: 29682802759108447842
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 29682802759108447842, previous_final_balance: 29682802759108447842
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 29682802759108447842, previous_final_balance: 29682802759108447842
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 29682802759108447842, previous_final_balance: 29682802759108447842
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 29682802759108447842, previous_final_balance: 29682802759108447842
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 29682802759108447842, previous_final_balance: 29682802759108447842
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 29682802759108447842, previous_final_balance: 29682802759108447842
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 29682802759108447842, previous_final_balance: 29682802759108447842
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 29682802759108447842, previous_final_balance: 29682802759108447842
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 29682802759108447842, previous_final_balance: 29682802759108447842
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 29682802759108447842, previous_final_balance: 29682802759108447842
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 29682802759108447842, previous_final_balance: 29682802759108447842
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 29682802759108447842, previous_final_balance: 29682802759108447842
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 74260087746036892326, previous_final_balance: 74260087746036892326
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 74260087746036892326, previous_final_balance: 74260087746036892326
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 74260087746036892326, previous_final_balance: 74260087746036892326
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 74260087746036892326, previous_final_balance: 74260087746036892326
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 74260087746036892326, previous_final_balance: 74260087746036892326
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 74260087746036892326, previous_final_balance: 74260087746036892326
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 74260087746036892326, previous_final_balance: 74260087746036892326
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 74260087746036892326, previous_final_balance: 74260087746036892326
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 74260087746036892326, previous_final_balance: 74260087746036892326
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 74260087746036892326, previous_final_balance: 74260087746036892326
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 74260087746036892326, previous_final_balance: 74260087746036892326
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 74260087746036892326, previous_final_balance: 74260087746036892326
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 74260087746036892326, previous_final_balance: 74260087746036892326
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 74260087746036892326, previous_final_balance: 74260087746036892326
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 74260087746036892326, previous_final_balance: 74260087746036892326
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 148626413099721906100, previous_final_balance: 148626413099721906100
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 148626413099721906100, previous_final_balance: 148626413099721906100
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 148626413099721906100, previous_final_balance: 148626413099721906100
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 148626413099721906100, previous_final_balance: 148626413099721906100
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 148626413099721906100, previous_final_balance: 148626413099721906100
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 148626413099721906100, previous_final_balance: 148626413099721906100
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 148626413099721906100, previous_final_balance: 148626413099721906100
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 148626413099721906100, previous_final_balance: 148626413099721906100
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 148626413099721906100, previous_final_balance: 148626413099721906100
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 148626413099721906100, previous_final_balance: 148626413099721906100
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 148626413099721906100, previous_final_balance: 148626413099721906100
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 148626413099721906100, previous_final_balance: 148626413099721906100
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 148626413099721906100, previous_final_balance: 148626413099721906100
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 148626413099721906100, previous_final_balance: 148626413099721906100
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 148626413099721906100, previous_final_balance: 148626413099721906100
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 148626413099721906100, previous_final_balance: 148626413099721906100
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 148626413099721906100, previous_final_balance: 148626413099721906100
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 148626413099721906100, previous_final_balance: 148626413099721906100
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 148626413099721906100, previous_final_balance: 148626413099721906100
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 148626413099721906100, previous_final_balance: 148626413099721906100
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 148626413099721906100, previous_final_balance: 148626413099721906100
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 148626413099721906100, previous_final_balance: 148626413099721906100
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 148626413099721906100, previous_final_balance: 148626413099721906100
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 148626413099721906100, previous_final_balance: 148626413099721906100
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 148626413099721906100, previous_final_balance: 148626413099721906100
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 148626413099721906100, previous_final_balance: 148626413099721906100
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 148626413099721906100, previous_final_balance: 148626413099721906100
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 148626413099721906100, previous_final_balance: 148626413099721906100
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 148626413099721906100, previous_final_balance: 148626413099721906100
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 148626413099721906100, previous_final_balance: 148626413099721906100
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 297465453399872598904, previous_final_balance: 297465453399872598904
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 297465453399872598904, previous_final_balance: 297465453399872598904
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 297465453399872598904, previous_final_balance: 297465453399872598904
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 297465453399872598904, previous_final_balance: 297465453399872598904
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 297465453399872598904, previous_final_balance: 297465453399872598904
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 297465453399872598904, previous_final_balance: 297465453399872598904
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 297465453399872598904, previous_final_balance: 297465453399872598904
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 297465453399872598904, previous_final_balance: 297465453399872598904
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 297465453399872598904, previous_final_balance: 297465453399872598904
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 297465453399872598904, previous_final_balance: 297465453399872598904
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 297465453399872598904, previous_final_balance: 297465453399872598904
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 297465453399872598904, previous_final_balance: 297465453399872598904
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 297465453399872598904, previous_final_balance: 297465453399872598904
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 297465453399872598904, previous_final_balance: 297465453399872598904
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 297465453399872598904, previous_final_balance: 297465453399872598904
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 297465453399872598904, previous_final_balance: 297465453399872598904
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 297465453399872598904, previous_final_balance: 297465453399872598904
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 297465453399872598904, previous_final_balance: 297465453399872598904
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 297465453399872598904, previous_final_balance: 297465453399872598904
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 297465453399872598904, previous_final_balance: 297465453399872598904
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 297465453399872598904, previous_final_balance: 297465453399872598904
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 297465453399872598904, previous_final_balance: 297465453399872598904
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 297465453399872598904, previous_final_balance: 297465453399872598904
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 297465453399872598904, previous_final_balance: 297465453399872598904
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 297465453399872598904, previous_final_balance: 297465453399872598904
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 297465453399872598904, previous_final_balance: 297465453399872598904
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 297465453399872598904, previous_final_balance: 297465453399872598904
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 297465453399872598904, previous_final_balance: 297465453399872598904
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 297465453399872598904, previous_final_balance: 297465453399872598904
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 297465453399872598904, previous_final_balance: 297465453399872598904
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 744195581871416127324, previous_final_balance: 744195581871416127324
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 744195581871416127324, previous_final_balance: 744195581871416127324
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 744195581871416127324, previous_final_balance: 744195581871416127324
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 744195581871416127324, previous_final_balance: 744195581871416127324
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 744195581871416127324, previous_final_balance: 744195581871416127324
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 744195581871416127324, previous_final_balance: 744195581871416127324
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 744195581871416127324, previous_final_balance: 744195581871416127324
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 744195581871416127324, previous_final_balance: 744195581871416127324
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 744195581871416127324, previous_final_balance: 744195581871416127324
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 744195581871416127324, previous_final_balance: 744195581871416127324
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 744195581871416127324, previous_final_balance: 744195581871416127324
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 744195581871416127324, previous_final_balance: 744195581871416127324
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 744195581871416127324, previous_final_balance: 744195581871416127324
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 744195581871416127324, previous_final_balance: 744195581871416127324
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 744195581871416127324, previous_final_balance: 744195581871416127324
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86647091540204847676, previous_final_balance: 86647091540204847676
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 173428484538974623012, previous_final_balance: 173428484538974623012
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 24726818994916220414, previous_final_balance: 24726818994916220414
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 59386822675299889571, previous_final_balance: 59386822675299889571
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 111429956478411454091, previous_final_balance: 111429956478411454091
+loop_num: 2
+Oracle
+bug: Requirement violation
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 198239426533105470368, previous_final_balance: 198239426533105470368
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 86660011974134286296, previous_final_balance: 86660011974134286296
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 371964851389107239059, previous_final_balance: 371964851389107239059
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 893354324121950497868, previous_final_balance: 893354324121950497868
+time elapsed: Duration { secs: 38, nanos: 4234578 }
+Could not find profitable testcase. Exiting...

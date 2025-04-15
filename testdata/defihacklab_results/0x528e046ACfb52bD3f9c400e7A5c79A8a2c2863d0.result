@@ -1,0 +1,10 @@
+Is proxy contract
+target_token: 0x528e046acfb52bd3f9c400e7a5c79a8a2c2863d0
+base_token: 0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2
+pair: 0x706206eabd6a70ca4992eec1646b6d1599259cae
+{"bridge": 0x9e58683b15827eeb53b4a29d31c8e27583eec153, "init": 0x00a329c0648769a73afac7f9381e08fb43dbea72, "main_pier": 0x3a2d29bdc3905a6d49f638bf2a6b21f6ecc42af8, "oracle": 0x502be16aa82bad01fdc3feb3c5f8c431f8eeb8ae}
+Block number: 19380954
+Found 0 templates breaking invariant!
+After introducing state-changing calls, found 0 templates breaking invariant!
+time elapsed: Duration { secs: 0, nanos: 859472699 }
+Could not find invariant-breaking testcase. Exiting...

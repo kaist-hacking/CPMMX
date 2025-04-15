@@ -1,0 +1,41 @@
+Is proxy contract
+target_token: 0x91383a15c391c142b80045d8b4730c1c37ac0378
+base_token: 0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2
+pair: 0x694f8f9e0ec188f528d6354fdd0e47dca79b6f2c
+{"bridge": 0xc69e5d6a347e144487dd2980188b359e4e4dae26, "init": 0x00a329c0648769a73afac7f9381e08fb43dbea72, "main_pier": 0x6752a21baa6d0a079f2801acc9d3adcf7b67aa35, "oracle": 0x502be16aa82bad01fdc3feb3c5f8c431f8eeb8ae}
+Block number: 15310016
+Err in update_oracle
+Oracle debug: precision: 100
+Oracle debug: reach 1
+Oracle debug: reach 2
+Oracle debug: reach 3
+Oracle debug: in calculateFeesorBonuses
+Oracle debug: No fee or bonus to sender
+Err in update_oracle
+Err in update_oracle
+Err in update_oracle
+Err in update_oracle
+Err in update_oracle
+Err in update_oracle
+Err in update_oracle
+Err in update_oracle
+Err in update_oracle
+Err in update_oracle
+Err in update_oracle
+Err in update_oracle
+Err in update_oracle
+Err in update_oracle
+Err in update_oracle
+Err in update_oracle
+Err in update_oracle
+Err in update_oracle
+Err in update_oracle
+Err in update_oracle
+Err in update_oracle
+Err in update_oracle
+Err in update_oracle
+Found 1 templates breaking invariant!
+Exploit found early!
+profit: 4506647998429650123
+
+time elapsed: Duration { secs: 10, nanos: 208492261 }

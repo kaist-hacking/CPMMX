@@ -10,5 +10,4 @@ testdata/fixtures/
 *.log
 TC_*
 testdata/v2-periphery/
-testdata/*/*.result
 testdata/*/*.csv

